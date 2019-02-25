@@ -1,0 +1,12 @@
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\MASGlobal.DTO.dll
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\MASGlobal.DTO.pdb
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\AutoMapper.dll
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\System.ValueTuple.dll
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\AutoMapper.pdb
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\AutoMapper.xml
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\bin\Debug\System.ValueTuple.xml
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\obj\Debug\MASGlobal.DTO.csproj.CoreCompileInputs.cache
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\obj\Debug\MASGlobal.DTO.csproj.CopyComplete
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\obj\Debug\MASGlobal.DTO.dll
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\obj\Debug\MASGlobal.DTO.pdb
+E:\EstudioEmpresas\MASGlobal\MASGlobal.DTO\obj\Debug\MASGlobal.DTO.csprojAssemblyReference.cache
